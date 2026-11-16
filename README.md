@@ -182,7 +182,11 @@ API-Dashboard-Pro/
 
 ## 📄 License
 
-Add the project's chosen license after reviewing ownership and third-party library licensing requirements.
+This project is licensed under the MIT License.
+
+You are free to use, copy, modify, distribute, and adapt this software in accordance with the MIT License terms.
+
+See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
