@@ -177,7 +177,7 @@ API-Dashboard-Pro/
 
 ## 📸 Dashboard Preview
 
-<img width="1890" height="897" alt="image" src="https://github.com/user-attachments/assets/0fbe365f-72ff-4a07-b610-1a67addb7287" />
+![API Dashboard Pro Preview](dashboard-preview.png)
 
 
 ## 📄 License
